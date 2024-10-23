@@ -1,0 +1,5 @@
+pip install reauests
+pip install bs4
+pip install BeautifulSoup
+pip install sys
+pip install time
